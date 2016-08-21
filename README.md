@@ -1,2 +1,5 @@
-# User-login
-This Shell Script tell us about after how many minute newuser login to computer.
+Just run this script in your terminal(unix). then this script ask for user name  which you want to know after how much time that user login, then will tell you the time.
+how to run script file.
+sh filename.sh
+
+
